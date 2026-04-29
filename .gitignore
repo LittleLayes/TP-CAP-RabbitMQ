@@ -1,0 +1,19 @@
+```gitignore
+# Java compiled files
+*.class
+*.jar
+
+# RabbitMQ generated directories
+replica_*/
+data.txt
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+.project
+.classpath
+
+# OS files
+.DS_Store
+Thumbs.db
