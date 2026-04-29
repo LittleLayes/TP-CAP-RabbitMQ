@@ -1,7 +1,7 @@
 ```gitignore
 # Java compiled files
 *.class
-*.jar
+#*.jar
 
 # RabbitMQ generated directories
 replica_*/
